@@ -1,0 +1,32 @@
+.main {
+    margin: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    color: rgb(225, 135, 9);
+    text-align: center;
+  } 
+  
+  .inputActivity {
+    height: 30px;
+    width: 500px;
+    border-radius: 10px;
+  }
+  
+  .box {
+    display: flex;
+    flex-direction: column;
+    width: max-content;
+    justify-content: center;
+    margin: auto;
+  }
+  
+  .list {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    column-gap: 10px;
+    row-gap: 20px;
+  }
